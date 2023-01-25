@@ -1,5 +1,5 @@
 ### Hey there 👋
-### My name is Ramón Ríos and now I'm working on a small personal project. :shipit:
+### My name is Ramón Ríos and now I'm working on project :shipit:
 ##### Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
